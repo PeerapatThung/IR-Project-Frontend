@@ -1,3 +1,6 @@
 # IR-Project-Frontend
+please run 
+
 npm i
-npm run serve
+
+before serving the server
